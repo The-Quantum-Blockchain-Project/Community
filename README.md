@@ -17,7 +17,7 @@ The project community is a knowledge base and forum regarding the Quantum Blockc
 
 ## Objective
 
-The objectiv of this community is to support the development of quantum technologies skills (building algorithms, softwares, hardwares, processors, networks, communication, etc) through the exchange knowledge between members. The information will be made available by Wiki or Readthedocs pages so new members can learn from previous discussions. We believe the knowledege should spread throughout the internet to reach those who want to learn for curiosity or to become a fully professional in the future.
+The objective of this community is to support the development of quantum technology skills (building algorithms, softwares, hardwares, processors, networks, communication, etc) through the exchange knowledge between members. The information will be made available by Wiki or Readthedocs pages so new members can learn from previous discussions. We believe the knowledege should spread throughout the internet to reach those who want to learn for curiosity or to become a fully professional in the future.
 
 ## How to join
 
