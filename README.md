@@ -32,6 +32,8 @@ You can contact us by joining the [Telegram group](https://t.me/thequantumblockc
 
 A comunidade do projeto é uma base de conhecimento e fórum relativo aos tópicos abordados pelo Quantum Blockchain project, que são:
 - [Computação Quântica](quantum-computing/quantum-computing.md)
+  - [Programação Quântica](quantum-computing/quantum-programming/quantum-programming.md)
+    - [Iniciação à Programação Quântica](quantum-computing/quantum-programming/getting-started-with-quantum-computing-programming.md)
 - [Informação Quântica](quantum-information/quantum-information.md)
 - [Redes Quânticas](quantum-networks/quantum-networks.md)
 - [Computadores Quânticos](quantum-computer/quantum-computer.md)

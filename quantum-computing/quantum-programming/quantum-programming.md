@@ -13,4 +13,4 @@
 
 ## Sumário
 
-- [Iniciação à Programação Quântica](quantum-programming/getting-started-with-quantum-computing-programming.md)
+- [Iniciação à Programação Quântica](getting-started-with-quantum-computing-programming.md)
